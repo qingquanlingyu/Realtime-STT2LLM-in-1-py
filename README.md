@@ -7,7 +7,7 @@ pip下载RealtimeSTT及相关所需库
 
 pip下载PySimpleGUI
 
-安装[Ollama](https://ollama.com/)
+安装[Ollama](https://ollama.com/)及模型，或使用其他开放API（样例使用deepseek）
 
-初次启动等待SST模型安装，并根据Ollama教程一键安装llama3即可使用
+初次启动等待SST模型安装
 
